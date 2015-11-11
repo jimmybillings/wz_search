@@ -5,7 +5,7 @@
     "James Billings <james_billings@me.com>"
   ],
   "description": "Search Component for Wazee Portals",
-  "main": "",
+  "main": "search.module.js",
   "moduleType": [
     "es6"
   ],

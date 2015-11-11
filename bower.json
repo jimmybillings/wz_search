@@ -1,0 +1,24 @@
+{
+  "name": "wz_search",
+  "homepage": "https://github.com/t3mediacorp/wazee_ui",
+  "authors": [
+    "James Billings <james_billings@me.com>"
+  ],
+  "description": "Search Component for Wazee Portals",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "Search"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

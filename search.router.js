@@ -9,7 +9,7 @@ export function searchRouter ($stateProvider) {
     })
     .state('search.index', {
       url: '/index',
-      templateUrl: 'app/components/search/index.html',
+      templateUrl: 'app/components/wz_search/index.html',
       controller: 'SearchController',
       controllerAs: 'vm'
     });

@@ -8,6 +8,7 @@
   "moduleType": [
     "es6"
   ],
+  "main": "search.scss",
   "keywords": [
     "Search"
   ],
